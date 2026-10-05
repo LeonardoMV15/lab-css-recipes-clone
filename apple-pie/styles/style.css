@@ -29,7 +29,7 @@ body {
   background-size: cover;
   background-position: center;
   font-size: 80px;
-  background-image: url("/apple-pie/images/apple-pie.jpg");
+  background-image: url("../images/apple-pie.jpg");
 }
 .title{
   display: flex;
@@ -58,7 +58,7 @@ h3{
   font-weight: bold;
   font-size: large;
 }
-ul{
+.stylelist{
   margin-left: 50px;
   list-style-type: "-";
 }
@@ -80,7 +80,7 @@ hr{
 .directionSection{
   margin-bottom: 40px;
 }
-img{
+.spaceimg{
   padding-top: 30px;
   padding-bottom: 30px;
 }
